@@ -12,7 +12,3 @@
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
         <item algoitem="ii PREND_LA_VALEUR 1200" code="5#ii#1200#pasliste"/>
-        <item algoitem="AFFICHER ii" code="3#ii#0#pasliste"/>
-    </item>
-    <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
-</Algo>
