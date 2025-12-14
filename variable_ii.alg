@@ -11,7 +11,9 @@
         <item algoitem="i EST_DU_TYPE NOMBRE" code="1#NOMBRE#i"/>
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
-        <item algoitem="i PREND_LA_VALEUR 500" code="5#i#500#pasliste"/>
+
+               <item algoitem="i PREND_LA_VALEUR 1200" code="5#i#300#pasliste"/>
+ 40bd1fc5c7e14b371bae7773c29d0a80e7d3bb9b
         <item algoitem="AFFICHER i" code="3#i#0#pasliste"/>
     </item>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
