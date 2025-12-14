@@ -1,0 +1,23 @@
+# Projet TP AlgoBox - Arthur BIOURGE TDA
+
+## Description
+Ce projet et reliée a l'apprentissage  en deuxième année de git avec algobox 
+
+## Contenu du projet
+Le code source est organisé dans le dossier `src/` :
+* variable_ii.alg : Algorithme principal utilisé pour les tests de conflits et de synchronisation.
+
+## Prérequis
+Pour exécuter ces fichiers, le logiciel AlgoBox est nécessaire.
+* Téléchargement : https://www.xm1math.net/algobox/
+
+## Comment ouvrir et exécuter
+1. Clonez ce dépôt sur votre machine (ou téléchargez le ZIP).
+2. Lancez le logiciel AlgoBox.
+3. Cliquez sur le bouton Ouvrir
+4. Naviguez dans le dossier `src/` de ce projet.
+5. Sélectionnez le fichier `.alg` souhaité.
+6. Cliquez sur le bouton Tester l'algorithme pour vérifier son fonctionnement.
+
+## Auteur
+* Arthur BIOURGE
