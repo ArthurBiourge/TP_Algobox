@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description texte="" courant="AFFICHER ii"/>
+    <description texte="" courant="AFFICHER i"/>
     <extension extnom="inactif"/>
     <fonction fctcode="" fctetat="inactif"/>
-    <F2 F2defaut="" F2etat="inactif" F2lignes="" F2para=""/>
+    <F2 F2lignes="" F2defaut="" F2para="" F2etat="inactif"/>
     <repere repcode="-10#10#-10#10#2#2" repetat="inactif"/>
-    <param totalAffichages="1000" nbDecimales="8" arrondiAuto="vrai" totalBoucles="5000000" epaisseurPoint="2" epaisseurLigne="2" maxBoucle="500000"/>
+    <param epaisseurPoint="2" arrondiAuto="vrai" totalAffichages="1000" epaisseurLigne="2" nbDecimales="8" maxBoucle="500000" totalBoucles="5000000"/>
     <item algoitem="FONCTIONS_UTILISEES" code="200#declarationfonctions"/>
     <item algoitem="VARIABLES" code="100#declarationsvariables">
-        <item algoitem="ii EST_DU_TYPE NOMBRE" code="1#NOMBRE#ii"/>
+        <item algoitem="i EST_DU_TYPE NOMBRE" code="1#NOMBRE#i"/>
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
-        <item algoitem="ii PREND_LA_VALEUR 1200" code="5#ii#1200#pasliste"/>
+        <item algoitem="i PREND_LA_VALEUR 300" code="5#i#300#pasliste"/>
+        <item algoitem="AFFICHER i" code="3#i#0#pasliste"/>
+    </item>
+    <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
+</Algo>
